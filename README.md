@@ -13,6 +13,9 @@ Guardei nesta pasta, os projetos que fiz em algum curso, ou outros em que estava
 
 Meu primeiro projeto utilizando uma base de dados do kaggle e buscando responder questionamentos próprios. Selecionei a corrida, pois sou praticante do esporte, e gostaria de influenciar novas pessoas a aderir a prática!
 
+### Bichinhos da TI
+Projeto incrível que estou participando que visa a aplicação prática dos conceitos que venho aprendendo em projetos.
+
 #### Referências
 Aqui vou listar quais tem sido minhas fontes de estudo:
  - [CS50x - Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-sciences)
