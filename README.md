@@ -5,16 +5,16 @@ Seja muito bem vindo ao meu portfólio de projetos! Há alguns meses, tomei a im
 
 Se você é alguém já experiente na área e quiser melhorar algum projeto, dar sugestões de melhoria ou contribuir de qualquer forma, fique a vontade! Caso esteja no começo da sua carreira, assim como eu, também se sinta a vontade para entrar em contato!
 
-### Projetos iniciais
-
-Guardei nesta pasta, os projetos que fiz em algum curso, ou outros em que estava apenas testando recursos novos recém-aprendidos.
-
 ### Análise de dados corrida
 
 Meu primeiro projeto utilizando uma base de dados do kaggle e buscando responder questionamentos próprios. Selecionei a corrida, pois sou praticante do esporte, e gostaria de influenciar novas pessoas a aderir a prática!
 
 ### Bichinhos da TI
 Projeto incrível que estou participando que visa a aplicação prática dos conceitos que venho aprendendo em projetos.
+
+### Projetos iniciais
+
+Guardei nesta pasta, os projetos que fiz em algum curso, ou outros em que estava apenas testando recursos novos recém-aprendidos.
 
 #### Referências
 Aqui vou listar quais tem sido minhas fontes de estudo:
