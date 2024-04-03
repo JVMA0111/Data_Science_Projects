@@ -10,7 +10,7 @@ Se você é alguém já experiente na área e quiser melhorar algum projeto, dar
 Meu primeiro projeto utilizando uma base de dados do kaggle e buscando responder questionamentos próprios. Selecionei a corrida, pois sou praticante do esporte, e gostaria de influenciar novas pessoas a aderir a prática!
 
 ### Bichinhos da TI
-Estou participando da squad de dados neste projeto incrível que visa a aplicação prática dos conceitos que venho aprendendo em projetos.
+Estou participando da squad de dados neste projeto incrível que visa a aplicação prática dos conceitos que venho aprendendo em projetos. Nele tenho sido capaz de desenvolver minha comunicação, storytelling, e habilidades técnicas junto à comunidade.
 
 ### Projetos iniciais
 
