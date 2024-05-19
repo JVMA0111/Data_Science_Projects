@@ -1,8 +1,3 @@
-## João Victor Martins
+## Modelo preditivo Flor de Iris
 
-Estudante de Análise e Desenvolvimento de Sistemas, e biomédico por formação. Meu maior interesse é pela área de ciência de dados, além disso tenho conhecimento em python, SQL, Excel, e um pouco de desenvolvimento web.  
-
-### Links:
-
-- GitHub: [JVMA0111](https://github.com/JVMA0111)
-- LinkedIn: [joão Victor Martins Antunes](https://www.linkedin.com/in/jo%C3%A3o-victor-martins-antunes-660954184/)
+Utilizou-se o dataset com características de 3 espécies de flores de Íris com o objetivo de criar um modelo preditivo capaz de prever a espécie com base em características das flores. Para isto, foi aplicada a técnica de regressão logística multinomial de forma a atingir 97.37% de precisão para o modelo. 
