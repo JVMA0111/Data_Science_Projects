@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Análise Preditiva de Vendas",
+    "description": "Modelo de machine learning para previsão de vendas utilizando regressão e séries temporais. Implementado com Python e scikit-learn.",
+    "longDescription": "Este projeto desenvolveu um modelo preditivo robusto para prever vendas futuras baseado em dados históricos. Utilizou técnicas de feature engineering, validação cruzada e otimização de hiperparâmetros para alcançar uma acurácia de 92%.",
+    "technologies": ["Python", "scikit-learn", "Pandas", "NumPy", "Matplotlib"],
+    "metrics": {
+      "Acurácia": "92%",
+      "RMSE": "0.15",
+      "Dados": "10K+"
+    },
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
+    "githubUrl": "https://github.com/seu-usuario/projeto-vendas",
+    "tags": ["Machine Learning", "Regressão", "Séries Temporais"],
+    "date": "2024-01"
+  },
+  {
+    "id": 2,
+    "title": "Classificação de Imagens com Deep Learning",
+    "description": "Rede neural convolucional para classificação de imagens em múltiplas categorias. Modelo treinado com TensorFlow e Keras.",
+    "longDescription": "Desenvolveu uma CNN com arquitetura customizada para classificar imagens em 10 categorias diferentes. O modelo foi treinado em 50K imagens e alcançou 95% de acurácia no conjunto de teste.",
+    "technologies": ["Python", "TensorFlow", "Keras", "OpenCV", "NumPy"],
+    "metrics": {
+      "Acurácia": "95%",
+      "F1-Score": "0.94",
+      "Treinamento": "4h"
+    },
+    "image": "https://images.unsplash.com/photo-1555949519-2f4233424dda?w=500&h=300&fit=crop",
+    "githubUrl": "https://github.com/seu-usuario/projeto-imagens",
+    "tags": ["Deep Learning", "CNN", "Visão Computacional"],
+    "date": "2024-02"
+  },
+  {
+    "id": 3,
+    "title": "Análise de Sentimentos em Redes Sociais",
+    "description": "Pipeline de processamento de linguagem natural para análise de sentimentos em tweets. Utiliza BERT e transformers.",
+    "longDescription": "Implementou um sistema completo de análise de sentimentos que processa dados em tempo real de redes sociais. Utilizou modelos pré-treinados de transformers para alcançar 89% de acurácia na classificação de sentimentos.",
+    "technologies": ["Python", "Transformers", "BERT", "PyTorch", "Pandas"],
+    "metrics": {
+      "Acurácia": "89%",
+      "Precisão": "0.91",
+      "Recall": "0.87"
+    },
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=300&fit=crop",
+    "githubUrl": "https://github.com/seu-usuario/projeto-sentimentos",
+    "tags": ["NLP", "Sentiment Analysis", "Transformers"],
+    "date": "2024-03"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "position": "Senior Data Scientist",
+    "company": "Tech Company",
+    "period": "2023 - Presente",
+    "startDate": "2023-01",
+    "endDate": null,
+    "description": "Desenvolvimento de modelos preditivos e análise de dados em larga escala. Liderança de projetos de machine learning e mentoria de junior data scientists.",
+    "achievements": [
+      "Implementou pipeline de ML que aumentou a precisão em 25%",
+      "Liderou equipe de 3 data scientists em projeto crítico",
+      "Publicou 2 artigos em conferências de Data Science"
+    ],
+    "technologies": ["Python", "TensorFlow", "Spark", "AWS"],
+    "location": "São Paulo, SP"
+  },
+  {
+    "id": 2,
+    "position": "Data Scientist",
+    "company": "Analytics Startup",
+    "period": "2021 - 2023",
+    "startDate": "2021-03",
+    "endDate": "2023-01",
+    "description": "Análise exploratória de dados, desenvolvimento de modelos de classificação e regressão, e criação de dashboards interativos.",
+    "achievements": [
+      "Desenvolveu modelo de churn prediction com 92% de acurácia",
+      "Criou 15+ dashboards em Power BI e Tableau",
+      "Automatizou processos de ETL economizando 40h/mês"
+    ],
+    "technologies": ["Python", "SQL", "Tableau", "Power BI"],
+    "location": "São Paulo, SP"
+  },
+  {
+    "id": 3,
+    "position": "Analista de Dados",
+    "company": "Consultoria XYZ",
+    "period": "2019 - 2021",
+    "startDate": "2019-06",
+    "endDate": "2021-03",
+    "description": "Análise de dados para diversos clientes, criação de relatórios e apresentações executivas, e suporte em decisões estratégicas.",
+    "achievements": [
+      "Atendeu 20+ clientes em diferentes indústrias",
+      "Criou framework de análise reutilizável",
+      "Apresentou insights para C-level executives"
+    ],
+    "technologies": ["Excel", "SQL", "Python", "Tableau"],
+    "location": "São Paulo, SP"
+  }
+]
